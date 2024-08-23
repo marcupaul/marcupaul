@@ -1,4 +1,4 @@
-## About:
+## About
 
 Hello. My name is Paul Marcu, and I'm a graduate of [Babeș-Bolyai University](https://www.cs.ubbcluj.ro/)'s Computer Science program. Currently, I'm enrolled in a Master's Degree program focusing on [High-Performance Computing and Big Data Analytics](https://www.cs.ubbcluj.ro/invatamant/programe-academice/masterat/calcul-de-inalta-performanta-si-analiza-volumelor-mari-de-date/) at the same institution. I seek to deepen my knowledge of and experience with software development, from both a professional and an academic perspective.
 
